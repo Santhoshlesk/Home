@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;400;500;600&family=Bellefair&display=swap');
+*{margin:0;}
+main{
+	display:flex;
+	background:url(starter-code/assets/home/combg.jpg);
+	background-size:100% 100%;
+	width:100%;
+	height:100%;
+}
+
+h1{
+	margin:auto;
+	font-size:150px;
+	color:white;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight:100;
+}
